@@ -1,4 +1,4 @@
-# Shower alarm
+# Shower timer
 
 My first ever project based on Micropython code. I wanted to tackle two simple household issues in my bathroom:
 
