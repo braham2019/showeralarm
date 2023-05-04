@@ -3,7 +3,7 @@
 My first ever project based on Micropython code. I wanted to tackle two simple household issues in my bathroom:
 
 - Make sure the (teenage) inhabitants don't shower longer than necessary (save water & energy).
-- Boost the Renson ventilation to extract moisture/steam quicker.
+- Boost the Renson Healthbox 3.0 ventilation to extract moisture/steam quicker.
 
 ## How did I do this
 
