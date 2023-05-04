@@ -20,8 +20,8 @@ The second one is do-able as the Renson ventilation has a local API that can be 
 
 ## Additional info
 - Only variables I use are the location of the API (http) and the shower timer
-- Upon boot, it shows Start button & battery info, then waits (until Start pressed) 
-- It goes into sleep mode to wake with Timer button showing on the screen
+- Upon boot, it shows Start button & battery info, then waits a few seconds (until Start pressed) 
+- It goes into sleep mode to wake with Timer button showing on the screen.
 - It lasts at least 4 weeks on the battery (average usage 3 showers a day)
 - The buzzer is an awful sound ;-)
 - Every hour it wakes itself up & goes back to sleep to update battery info.
